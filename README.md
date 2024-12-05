@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikas-tonde
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning node js and next js
-- I love to work on Spring Boot (Java).
+- ‎‍💼 I love to work on Spring Boot (Java).
 - 📫 tondev23@gmail.com
 <!-- - 💞️ I’m looking to collaborate on  -->
 
